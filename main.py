@@ -3,11 +3,6 @@ import json
 from colorama import init, Style, Fore, Back
 from urllib.request import urlopen
 
-'''
-SCRAPPED
-'''
-
-
 os.system('cls|clear')
 
 init(autoreset=True)

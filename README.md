@@ -1,4 +1,4 @@
-# <img alt="noaa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/US-NationalWeatherService-Logo.svg/1024px-US-NationalWeatherService-Logo.svg.png" style="display:block;width:5%;margin-left:auto;margin-right:auto;"> Active Alerts
+# <img alt="noaa" src="https://replit.com/cdn-cgi/image/width=1200,quality=80/https://storage.googleapis.com/replit/images/1647014232262_b2e274f36491af8afa991467ced6d964.png" style="display:block;width:5%;margin-left:auto;margin-right:auto;"> Active Alerts
 ![Generic badge](https://img.shields.io/badge/version-0.1.0-black.svg) \
 A simple script that gets the top-most alert in a state.
 
